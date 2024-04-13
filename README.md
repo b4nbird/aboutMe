@@ -1,6 +1,5 @@
 About Me
 - 攻防&learning coding
-- 典型啥都想学啥都学不会
 - 或许有一天会开一家超市
 ### blog
 http://www.vulnpoc.cn
