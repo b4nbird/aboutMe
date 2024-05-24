@@ -1,6 +1,6 @@
 About Me
 - 攻防&learning coding
-- 或许有一天会开一家超市
+
 ### blog
 http://www.vulnpoc.cn
 
